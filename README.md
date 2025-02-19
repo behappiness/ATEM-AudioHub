@@ -19,7 +19,7 @@ To get started with AudioHub, simply run the application and connect it to your 
 ## Requirements
 
 - .NET Framework 4.8
-- Blackmagic Design ATEM switcher
+- Blackmagic Design ATEM switcher and ATEM Software Control
 
 ## Usage
 
