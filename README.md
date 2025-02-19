@@ -2,6 +2,8 @@
 
 AudioHub is a Windows Forms application designed to manage and control audio routing for Blackmagic Design's ATEM switchers. The application provides an intuitive interface for configuring audio sources and outputs, making it easy to manage complex audio setups.
 
+![Alt text](img/AudioHub_v1.0.0.png)
+
 ## Features
 
 - **Audio Routing Control**: Easily route audio from various sources to different outputs using a simple button interface.
